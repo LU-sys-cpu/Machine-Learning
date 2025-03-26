@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 """
 Author:
-	Jack Cui
+	Jack Cui11
 Blog:
     http://blog.csdn.net/c406495762
 Zhihu:
